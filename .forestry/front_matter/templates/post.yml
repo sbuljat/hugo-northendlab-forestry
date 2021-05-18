@@ -25,4 +25,5 @@ fields:
   label: type
   default: post
 pages:
+- content/Test.md
 - content/ja-sam-gorila.md
